@@ -50,6 +50,7 @@ It is generally recommended to go with the latest LTS release of Ubuntu (18.04.2
 **Tips and tricks**
 
 - [16 Useful Linux Command Line Tips And Tricks](https://likegeeks.com/linux-command-line-tricks/)
+- [Getting Familiar With Command Line Editor Through a Game](https://vim-adventures.com/)
 - [Using Shell Scripting to Automate Linux System Maintenance Tasks](https://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
 
 
